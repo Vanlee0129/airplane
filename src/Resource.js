@@ -57,7 +57,7 @@ var RESOURCES = {
   s_enemy1_down_ogg: "res/sound/enemy1_down.ogg",
   s_enemy2_down_ogg: "res/sound/enemy2_down.ogg",
   s_enemy3_down_ogg: "res/sound/enemy3_down.ogg",
-  s_game_music_ogg: "res/sound/game_music.ogg",
+  s_game_music_mp3: "res/sound/game_music.mp3",
   s_game_over_ogg: "res/sound/game_over.ogg",
   s_get_bomb_ogg: "res/sound/get_bomb.ogg",
   s_get_double_laser_ogg: "res/sound/get_double_laser.ogg",

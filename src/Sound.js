@@ -50,12 +50,12 @@ Sound.playGameOverSound = function () {
 };
 
 Sound.playGameMusicSound = function () {
-  Sound._gameMusic = this.playMusic(RESOURCES[ 's_game_music_ogg' ]);
+  Sound._gameMusic = this.playMusic(RESOURCES[ 's_game_music_mp3' ]);
   return Sound._gameMusic;
 };
 
 Sound.stopGameMusicSound = function () {
-  Sound._gameMusic.stop(RESOURCES[ 's_game_music_ogg' ]);
+  Sound._gameMusic.stop(RESOURCES[ 's_game_music_mp3' ]);
 };
 
 Sound.playSpaceshipSound = function () {
